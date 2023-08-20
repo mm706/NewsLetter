@@ -10,8 +10,8 @@ body{
     flex-wrap: nowrap;
     justify-content: space-between;
     margin-top: 20px;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 
 .nav-item1{
@@ -83,13 +83,13 @@ body{
 
 .text{
     margin-top: 30px;
-    text-align: center;
     font-size: 14px;
+    text-align: justify-all;
+    width: 100%;
 }
 
 .text1{
     margin-top: 30px;
-
     font-size: 14px;
 }
 .person-img{
@@ -106,7 +106,7 @@ body{
 button{
     color: beige;
     background-color: black;
-    
+
 }
 
 
